@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-*main - program line as entry
-*return: 0 (Success)
+* main - program line as entry
+* Return: 0 (Success)
 */
-int main(void) 
+int main(voiid)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
