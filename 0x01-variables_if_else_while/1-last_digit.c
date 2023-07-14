@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /*
- * main - program wit last digit 
+ * main - program wit last digit
  *
  * Return: 0 (Success)
  */
