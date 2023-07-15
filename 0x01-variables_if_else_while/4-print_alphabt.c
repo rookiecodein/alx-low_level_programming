@@ -1,11 +1,8 @@
-#include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 /**
  * main - alphabet lowercase except
  * Return: 0 (Success)
  */
-
 int main(void)
 {
 	char i= 'a';
@@ -16,6 +13,6 @@ int main(void)
 		putchar(i);
 		i++
 	}
-	putchar('\n)
-	return (0)
+	putchar('\n);
+	return (0);
 }
