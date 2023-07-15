@@ -6,15 +6,25 @@
 
 int main(void)
 {
-	char i = 'A , a';
+	char i = 'a';
+	char I = 'A';
 		
-		/*prints a - z && A - Z*/
+		/*prints a - z*/
 
-		while (i <= 'z' && i <= 'Z')
+		while (i <= 'z')
 		{
 			putchar(i);
 				i++;
 		}
+
+                /*prints A - Z*/
+
+                while (I <= 'Z')
+                {
+                        putchar(I);
+                                I++;
+                }
+
 		putchar('\n');
 
 		return (0);
