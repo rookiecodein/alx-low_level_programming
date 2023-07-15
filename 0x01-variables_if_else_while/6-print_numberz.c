@@ -7,7 +7,7 @@
 int main(void)
 {
 	int dig = 0;
-	
+
 	while (dig <= 9)
 	{
 		/*using ASCII*/
