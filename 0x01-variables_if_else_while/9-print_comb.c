@@ -11,7 +11,7 @@ int main(void)
 	while (dig <= 9)
 	{
 		putchar(dig + 48);
-		
+
 		if (dig != 9)
 		{
 			putchar(',');
