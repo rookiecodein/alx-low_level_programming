@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _isalpha - checks for alphabetics
+ * _isalpha - checks for alphabetics 1 if so. 0 if else.
  * @c: character in ASCII code
- * return: 1 c is a letter wether uppercase of lower case. O otherwise
+ * return: 1 c is a letter wether uppercase of lower case. 0 otherwise
  */
 
 int _isalpha(int c)
