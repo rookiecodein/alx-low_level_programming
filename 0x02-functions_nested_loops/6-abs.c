@@ -11,8 +11,9 @@ int _abs(int n)
 	{
 		return (n);
 	}
-	if else (n < 0)
+	if else(n < 0)
 	{	
 		return (n * -1);
 	}
 }
+
