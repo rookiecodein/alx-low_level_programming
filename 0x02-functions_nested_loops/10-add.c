@@ -1,4 +1,4 @@
-#include "main.h"
+#includie "main.h"
 /**
  * add - function that add two integer
  * @a: first input
@@ -9,5 +9,6 @@ int add(int a, int b)
 {
 	int sum = a + b;
 
-	return (sum)
+	return (sum);
 }
+
