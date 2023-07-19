@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * _abs - absolute value of integer
+ * _abs - absolute value of an integer
  * @n: the input integer
- * Return: n absolute value
+ * Return: absolute value
  */
 
 int _abs(int n)
@@ -11,7 +11,7 @@ int _abs(int n)
 	{
 		return (n);
 	}
-	else (n < 0)
+	else
 	{	
 		return (n * -1);
 	}
