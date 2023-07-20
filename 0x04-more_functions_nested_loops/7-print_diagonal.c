@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * print_diagonal - draws diagonal line
- * @n: number of time \ char should be printed
+ * print_diagonal - print diagonal line
+ * @n: number of time character \ should be printed
  */
 
 void print_diagonal(int n)
