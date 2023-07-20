@@ -2,6 +2,7 @@
 
 /**
  * print_numbers - prints numbers 0 to 9
+ * using putchar twice
  * Return: 0 success
  */
 
