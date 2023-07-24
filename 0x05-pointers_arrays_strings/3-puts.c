@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _puts - function prints string
- * @str: parameter
+ * _puts - function prints string followed nwline to stdout
+ * @str: string parameter
  * Return: 0 success
  */
 
