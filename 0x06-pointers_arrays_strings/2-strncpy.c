@@ -2,9 +2,9 @@
 
 /**
  * *_strncpy - it copies strings
- * @dest: integer string
- * @src: integer string
- * @n: integer input
+ * @dest: input
+ * @src: input
+ * @n: input
  * Return: dest
  */
 
