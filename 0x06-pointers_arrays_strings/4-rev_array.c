@@ -2,8 +2,8 @@
 
 /**
  * reverse_array - reverse content of array of integer
- * @a: integer
- * @n: input
+ * @a: array
+ * @n: numbr of elemnt of array
  * Return: void
  */
 
